@@ -1,7 +1,7 @@
-<script 
+
 src="https://cdnjs.cloudflare.com/ajax/libs/noUiSlider/9.2.0/nouislider.min.js"
->
-</script><script>
+
+
 
 
 function universalSlider() {
@@ -172,4 +172,3 @@ function universalSlider() {
 }
 
 //simple comment
-</script>
