@@ -170,4 +170,6 @@ function universalSlider() {
 		return embeddedName;
 	};
 }
+
+//simple comment
 </script>
